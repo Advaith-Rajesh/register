@@ -1,0 +1,11 @@
+{
+  "description": "DESCRIPTION OF YOUR PROJECT",
+  "repo": "YOUR REPL LINK OR GITHUB REPOSITORY", 
+  "owner": {
+    "username": "PUT YOUR GITHUB USERNAME HERE",
+    "email": "PUT YOUR EMAIL HERE"
+  },
+  "record": {
+    "CNAME": "PUT THE CNAME YOU COPIED FROM REPLIT HERE"
+  }
+}
